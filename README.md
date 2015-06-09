@@ -1,7 +1,6 @@
 # 1C PHP gateway 
 
-![image of 1cgw]
-(http://www.meteor-it.ru/static/media/uploads/pages/1Cgw.png)
+![image of 1cgw] (http://www.meteor-it.ru/static/media/uploads/pages/1Cgw.png)
 ---
 1C Enterprise SOAP/WSDL scheme web-service using xml/XDTO with PHP 
 
