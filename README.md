@@ -2,7 +2,7 @@
 
 ![image of 1cgw] (http://www.meteor-it.ru/static/media/uploads/pages/1Cgw.png)
 ---
-1C Enterprise SOAP/WSDL scheme web-service using xml/XDTO with PHP 
+[1C Enterprise] (http://1c-dn.com/1c_enterprise/what_is_1c_enterprise/) SOAP/WSDL scheme web-service using xml/XDTO with PHP 
 
 More info (RUS) - http://www.meteor-it.ru/1cgw/ 
 
